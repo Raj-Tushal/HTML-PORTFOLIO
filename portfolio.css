@@ -1,0 +1,10 @@
+*{
+    text-align justify;
+ }
+ h1{
+     text-decoration: red dotted underline;
+     font-weight:bolder;
+     border-style: solid ;
+     border-color: blue; 
+     vertical-align: auto;
+ }
